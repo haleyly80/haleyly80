@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haleyly80
 - 👀 I’m interested in ... technology.
-- 🌱 I’m currently learning ... SCRUM and Manual QA.
-- 💞️ I’m looking to collaborate on ... efficency with Manual QA
+- 🌱 I’m currently learning ... SAFe Scrum.
+- 💞️ I’m looking to collaborate on ... efficency with SAFe Scrum
 - 📫 How to reach me ... all socials @haleyly80
 
 <!---
