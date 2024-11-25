@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haleyly80
-- 👀 I’m interested in ... technology.
-- 🌱 I’m currently learning ... SAFe Scrum.
-- 💞️ I’m looking to collaborate on ... efficency with SAFe Scrum
+- 👀 I’m interested in ... Finance.
+- 🌱 I’m currently learning ... Options trading.
+- 💞️ I’m looking to collaborate on ... efficency with fundemntal analysis
 - 📫 How to reach me ... all socials @haleyly80
 
 <!---
